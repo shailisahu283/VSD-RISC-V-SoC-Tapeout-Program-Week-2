@@ -81,6 +81,8 @@ Reference: [VSDBabySoC Project Labs](https://github.com/hemanthkumardm/SFAL-VSD-
    ```bash
    gtkwave dump.vcd
    ```
+<img width="1375" height="266" alt="image" src="https://github.com/user-attachments/assets/a8446de4-7ca8-4eda-8ed3-cfd62c8b9364" />
+
 
 5. Analyze the following:
 
